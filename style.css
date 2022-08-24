@@ -247,7 +247,7 @@ body{
 	position: relative;
 	top:0%;
 	right:0%;
-	float:right;
+	float:left;
 	height:0%;
 	padding: 0px;
 	margin:25px 0px;
@@ -261,8 +261,8 @@ body{
 	padding: 10px;
 	color: #ffffff ;
 	font-size: 1.1rem;
-  font-weight: 600;
-  line-height: 1;
+  	font-weight: 600;
+  	line-height: 1;
 	
 }
 
