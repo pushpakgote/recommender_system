@@ -234,7 +234,8 @@ body{
 	font-size: 600%;
 	color: #ffffff;
 	text-align: center;
-	margin: 90px auto;	
+	margin: 90px auto;
+	margin-bottom: 50px;
 }
 
 .menu__btn {
